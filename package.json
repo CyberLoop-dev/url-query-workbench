@@ -1,0 +1,9 @@
+{
+  "name": "url-query-workbench",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Edit URL query parameters locally while preserving repeated keys and empty values.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
